@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doris Q</title>
+  <script>
+    window.homepageInitialHash = window.location.hash;
+
+    if (window.homepageInitialHash) {
+      window.history.replaceState(null, "", window.location.pathname + window.location.search);
+    }
+  </script>
+  <link rel="stylesheet" href="header/header.css">
+  <link rel="stylesheet" href="homepage.css">
+  <link rel="stylesheet" href="homepage-timeline.css">
+</head>
+<body class="is-intro-running">
+  <div data-header></div>
+
+  <main class="home-index" aria-label="Project index">
+    <section class="project-index" aria-label="Projects by category">
+      <div class="category-axis" data-category-axis></div>
+      <div class="project-rows" data-project-rows></div>
+    </section>
+  </main>
+
+  <section id="timeline" class="home-timeline" aria-label="Project timeline">
+    <div class="home-timeline__inner">
+      <div class="timeline-legend" aria-label="Timeline categories">
+        <div class="timeline-legend__item">
+          <span class="timeline-legend__label timeline-legend__label--vertical">Grassspace</span>
+          <span class="timeline-legend__swatch timeline-legend__swatch--green"></span>
+        </div>
+        <div class="timeline-legend__item">
+          <span class="timeline-legend__label timeline-legend__label--vertical">Live Build</span>
+          <span class="timeline-legend__swatch timeline-legend__swatch--dark-blue"></span>
+        </div>
+        <div class="timeline-legend__item">
+          <span class="timeline-legend__label">Year</span>
+          <span class="timeline-legend__swatch timeline-legend__swatch--year"></span>
+        </div>
+        <div class="timeline-legend__item">
+          <span class="timeline-legend__label timeline-legend__label--vertical">Curation</span>
+          <span class="timeline-legend__swatch timeline-legend__swatch--light-blue"></span>
+        </div>
+        <div class="timeline-legend__item">
+          <span class="timeline-legend__label timeline-legend__label--vertical">Arch. Edu</span>
+          <span class="timeline-legend__swatch timeline-legend__swatch--red"></span>
+        </div>
+      </div>
+
+      <div class="timeline-body" data-timeline-body></div>
+    </div>
+  </section>
+
+  <script src="header/header.js"></script>
+  <script src="homepage.js"></script>
+  <script src="homepage-timeline.js"></script>
+  <script src="homepage-anchor.js"></script>
+</body>
+</html>

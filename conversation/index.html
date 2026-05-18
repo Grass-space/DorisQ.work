@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conversation</title>
+  <link rel="stylesheet" href="../header/header.css">
+  <link rel="stylesheet" href="conversation.css">
+</head>
+<body>
+  <div data-header></div>
+
+  <main class="page-shell">
+    <div class="conversation-photo-preview" aria-hidden="true">
+      <img class="conversation-photo-preview__image" alt="">
+    </div>
+
+    <section class="conversation-layout" data-conversation-layout="talks-interviews" aria-label="Talks and interviews">
+      <div class="conversation-column conversation-column--talks">
+        <h1>Talks</h1>
+        <div class="conversation-list" data-conversation-list="talks"></div>
+      </div>
+
+      <div class="conversation-column conversation-column--interviews">
+        <h1>Interviews</h1>
+        <div class="conversation-list" data-conversation-list="interviews"></div>
+      </div>
+    </section>
+
+    <section class="conversation-layout" data-conversation-layout="featured-publication" aria-label="Featured and publication">
+      <div class="conversation-column conversation-column--talks">
+        <h1>Featured</h1>
+        <div class="conversation-list" data-conversation-list="featured"></div>
+      </div>
+
+      <div class="conversation-column conversation-column--interviews">
+        <h1>Publication</h1>
+        <div class="conversation-list" data-conversation-list="publication"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="../header/header.js"></script>
+  <script src="conversation.js"></script>
+</body>
+</html>

@@ -1,0 +1,134 @@
+:root {
+  --page-bg: #ffffff;
+  --page-text: #111111;
+  --photo-placeholder: #d9d9d9;
+  --bio-center-offset: var(--header-center-offset);
+  --bio-copy-x: 340px;
+  --bio-photo-x: -400px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--page-text);
+  background: var(--page-bg);
+  font-family: "Work Sans", Arial, Helvetica, sans-serif;
+  line-height: 1.35;
+}
+
+.bio-page {
+  min-height: calc(100vh - 135px);
+  margin-top: -50px;
+}
+
+.bio-layout {
+  position: relative;
+  width: 100%;
+  min-height: calc(100vh - 135px);
+}
+
+.bio-copy {
+  position: absolute;
+  top: 120px;
+  left: calc(50% - var(--bio-center-offset) + var(--bio-copy-x));
+  width: 500px;
+  max-width: 500px;
+  transform: translateX(-100%);
+}
+
+.bio-copy h1 {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-size: 22px;
+  line-height: 1;
+}
+
+.bio-copy p {
+  margin: 22px 0 0;
+  max-width: 64ch;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.45;
+  margin-left: 15px;
+}
+
+.bio-copy.is-zh,
+.bio-copy.is-zh h1 {
+  font-family: "Microsoft YaHei", "微软雅黑", Arial, Helvetica, sans-serif;
+}
+
+.bio-copy.is-zh p {
+  font-size: 13px;
+}
+
+.bio-language-switch {
+  display: flex;
+  position: absolute;
+  top: 500px;
+  left: 15px;
+  align-items: center;
+  gap: 6px;
+  color: var(--page-text);
+  font-family: "Microsoft YaHei", "微软雅黑", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.bio-language-switch button {
+  padding: 0;
+  border: 0;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.bio-language-switch button.is-active {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.bio-photo-placeholder {
+  position: absolute;
+  top: 120px;
+  left: calc(50% + var(--bio-center-offset) + var(--bio-photo-x));
+  width: 500px;
+  height: 500px;
+  background: var(--photo-placeholder);
+}
+
+@media (max-width: 1250px) {
+  .bio-page {
+    min-height: auto;
+    padding: 140px 24px 80px;
+  }
+
+  .bio-layout {
+    display: block;
+    min-height: 0;
+  }
+
+  .bio-copy,
+  .bio-photo-placeholder {
+    position: static;
+    transform: none;
+  }
+
+  .bio-copy {
+    width: 100%;
+    max-width: 500px;
+    margin-left: 0;
+  }
+
+  .bio-photo-placeholder {
+    margin-top: 130px;
+    width: min(550px, 100%);
+    height: auto;
+    aspect-ratio: 1;
+  }
+}

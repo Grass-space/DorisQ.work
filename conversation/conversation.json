@@ -1,0 +1,355 @@
+{
+  "categories": [
+    {
+      "id": "talks",
+      "title": "Talks"
+    },
+    {
+      "id": "interviews",
+      "title": "Interviews"
+    },
+    {
+      "id": "featured",
+      "title": "Featured"
+    },
+    {
+      "id": "publication",
+      "title": "Publication"
+    }
+  ],
+  "projects": {
+    "talks": [
+      {
+        "title": "UCSI SABE",
+        "media": "Staff Training Sharing on",
+        "source": "'Brief-ly'",
+        "sourceLink": null,
+        "color": [
+          "Red",
+          "Light blue"
+        ],
+        "type": "* ! ÷ \"",
+        "imagePath": []
+      },
+      {
+        "title": "Kajang Workshop",
+        "media": "Lecture on",
+        "source": "'Community Architecture'",
+        "sourceLink": "https://www.facebook.com/usr.cycu.1",
+        "color": [
+          "Light blue"
+        ],
+        "type": "Ø X",
+        "imagePath": [
+          "photo/T2.jpg"
+        ]
+      },
+      {
+        "title": "USL Bangkok",
+        "media": "Placemaking Week 2023 Lecture on",
+        "source": "'Placemaking \\ Scales'",
+        "sourceLink": "https://www.facebook.com/permalink.php?story_fbid=pfbid02tkyhwzUS33hC1BF81NkMNpEZUeW95oWYUqJjUyiADbJn2UB88gyaFP5GrQ84Nf13l&id=100095617329083",
+        "color": [
+          "Light blue"
+        ],
+        "type": "Ø",
+        "imagePath": [
+          "photo/T3.jpg"
+        ]
+      },
+      {
+        "title": "USL Bangkok",
+        "media": "Placemaking Week 2023 Lecture on",
+        "source": "'Placemaking \\ Scales'",
+        "sourceLink": null,
+        "color": [
+          "Red",
+          "Light blue"
+        ],
+        "type": "X",
+        "imagePath": []
+      },
+      {
+        "title": "UM Graduation Show",
+        "media": "StudioXhibition Sharing on",
+        "source": "'Architecture in Action'",
+        "sourceLink": "https://instagram.com/p/CuoC3-ISVkZ/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X",
+        "imagePath": [
+          "photo/T5a.jpg",
+          "photo/T5b.jpg"
+        ]
+      },
+      {
+        "title": "Colllab x NUS",
+        "media": "Lecture on",
+        "source": "'Community Architecture'",
+        "sourceLink": "https://www.instagram.com/p/Cwls6h5SpKG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D",
+        "color": [
+          "Blue"
+        ],
+        "type": "Ø X",
+        "imagePath": [
+          "photo/T6.jpg"
+        ]
+      }
+    ],
+    "interviews": [
+      {
+        "title": "BFM",
+        "media": "Podcast on",
+        "source": "'Where arts go down in the Gudang'",
+        "sourceLink": "https://www.bfm.my/content/podcast/i-love-kl-where-arts-go-down-in-a-gudang",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X",
+        "imagePath": []
+      },
+      {
+        "title": "CityPlus Fm",
+        "media": "Interview Podcast on",
+        "source": "Assemble to Assembly, \nCommunity Activation",
+        "sourceLink": "https://cityplusfm.my/%E4%B8%BA%E7%A4%BE%E5%8C%BA%E5%BB%BA%E8%AE%BE%E4%B8%80%E6%89%80%E5%9B%BE%E4%B9%A6%E9%A6%86/",
+        "color": [
+          "Blue"
+        ],
+        "type": "Ø X",
+        "imagePath": []
+      },
+      {
+        "title": "CityPlus Fm",
+        "media": "Interview Podcast on",
+        "source": "Public Plays A Sustainable Playscape",
+        "sourceLink": "https://cityplusfm.my/%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%BB%BA%E7%AD%91%E8%AE%A1%E5%88%92%E4%B8%BA%E6%96%B0%E6%9D%91%E5%BB%BA%E8%AE%BE%E7%A7%BB%E5%8A%A8%E5%BC%8F%E6%B8%B8%E4%B9%90%E5%9C%BA/",
+        "color": [
+          "Blue"
+        ],
+        "type": "! X Ø",
+        "imagePath": []
+      },
+      {
+        "title": "麻河时光 Muar River Times",
+        "media": "Video on",
+        "source": "新春回鄉走走系列",
+        "sourceLink": "https://www.facebook.com/MuarRiverTimes/videos/416551362933877",
+        "color": [
+          "Blue"
+        ],
+        "type": "! X Ø",
+        "imagePath": [
+          "photo/I4.jpg"
+        ]
+      },
+      {
+        "title": "Ai FM",
+        "media": "Interview on",
+        "source": "老社区记录工作者郭舒涵、黄悅秦\n谈社区里的老巴刹",
+        "sourceLink": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=540664919970190",
+        "color": [
+          "Light blue"
+        ],
+        "type": "! X Ø",
+        "imagePath": []
+      },
+      {
+        "title": "Bernama TV Chinese",
+        "media": "Interview on",
+        "source": "巴刹天逛一轮人情味 \n年轻人视角发掘市井美",
+        "sourceLink": "https://www.facebook.com/BernamaTV.CN/videos/1865687853534719/",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X Ø",
+        "imagePath": []
+      },
+      {
+        "title": "AUN-ADERA Community Engagement",
+        "media": "Podcast on",
+        "source": "Creativity without borders- Community Engagement in Architectural Education \nduring pandemic",
+        "sourceLink": "https://www.youtube.com/watch?v=LNsEz5zTEP8",
+        "color": [
+          "Red"
+        ],
+        "type": "X Ø",
+        "imagePath": [
+          "photo/I7.jpg"
+        ]
+      }
+    ],
+    "featured": [
+      {
+        "title": "The Star",
+        "media": "Newspaper Article on",
+        "source": "'Building Bridges to Resilience with \nPop-up Libraries and Community Playscapes'",
+        "sourceLink": "https://www.thestar.com.my/lifestyle/culture/2021/06/02/building-bridges-to-resilience-with-pop-up-libraries-and-community-playscapes",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X",
+        "imagePath": ["photo/F1.jpg"]
+      },
+      {
+        "title": "Sin Chew",
+        "media": "Newspaper Article on",
+        "source": "透过幸福计划 大学生实践社会关怀行动，\n种下为善的种子",
+        "sourceLink": "https://www.sinchew.com.my/?p=3196714",
+        "color": [
+          "Blue"
+        ],
+        "type": "! X Ø",
+        "imagePath": ["photo/F2.jpg"]
+      },
+      {
+        "title": "Chinapress",
+        "media": "Newspaper Article on",
+        "source": "◤柔佛人头条◢ 文林望村民齐打造 \n全柔首创移动式游乐场",
+        "sourceLink": "https://johor.chinapress.com.my/20210117/%E2%97%A4%E6%9F%94%E4%BD%9B%E4%BA%BA%E5%A4%B4%E6%9D%A1%E2%97%A2%E6%96%87%E6%9E%97%E6%9C%9B%E6%9D%91%E6%B0%91%E9%BD%90%E6%89%93%E9%80%A0-%E5%85%A8%E6%9F%94%E9%A6%96%E5%88%9B%E7%A7%BB%E5%8A%A8/",
+        "color": [
+          "Blue"
+        ],
+        "type": "! X Ø",
+        "imagePath": ["photo/F3.jpg"]
+      },
+      {
+        "title": "Sin Chew",
+        "media": "Newspaper Article on",
+        "source": "“文林望，我们不一样！” \n移动式游乐场方块完工了！",
+        "sourceLink": "https://www.sinchew.com.my/?p=3144658",
+        "color": [
+          "Blue"
+        ],
+        "type": "! X Ø",
+        "imagePath": ["photo/F4.jpg"]
+      },
+      {
+        "title": "Nanyang",
+        "media": "Newspaper Article on",
+        "source": "环保材料建造 \n移动游乐场发挥创意",
+        "sourceLink": "https://www.enanyang.my/news/20201230/State/339635",
+        "color": [
+          "Blue"
+        ],
+        "type": "! X Ø",
+        "imagePath": ["photo/F5.jpg"]
+      },
+      {
+        "title": "Sin Chew",
+        "media": "Newspaper Article on",
+        "source": "打造移动式游乐场 年轻专长 \n激活麻河畔老镇",
+        "sourceLink": "https://www.sinchew.com.my/?p=3038752",
+        "color": [
+          "Blue"
+        ],
+        "type": "! X Ø",
+        "imagePath": ["photo/F6.jpg"]
+      },
+      {
+        "title": "Sin Chew",
+        "media": "Newspaper Article on",
+        "source": "【老建筑新魂记/01】改造老巴刹，\n再凝聚新力量- 副刊 - 专题",
+        "sourceLink": "https://www.sinchew.com.my/?p=3119261",
+        "color": [
+          "Red"
+        ],
+        "type": "X Ø",
+        "imagePath": ["photo/F7.jpg"]
+      },
+      {
+        "title": "The Interview",
+        "media": "Article on",
+        "source": "若巴刹消失了，我们该“河去何从”？\n—— 专访社区记录者郭舒涵",
+        "sourceLink": "https://theinterview.asia/people/29173/",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X Ø",
+        "imagePath": ["photo/F8.jpg"]
+      },
+      {
+        "title": "Sin Chew",
+        "media": "Newspaper Article on",
+        "source": "“巴刹天Pasal Pasar”创作联展",
+        "sourceLink": "https://www.sinchew.com.my/20190823/%E5%B7%B4%E5%88%B9%E5%A4%A9-pasal-pasar%E5%88%9B%E4%BD%9C%E8%81%94%E5%B1%95/?variant=zh-hant",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X Ø",
+        "imagePath": ["photo/F9.jpg"]
+      },
+      {
+        "title": "Chinapress",
+        "media": "Newspaper Article on",
+        "source": "【字游自在】巴刹天 尝一口日常味 \n找一条回家的心路",
+        "sourceLink": "https://www.chinapress.com.my/20190818/%E3%80%90%E5%AD%97%E6%B8%B8%E8%87%AA%E5%9C%A8%E3%80%91%E5%B7%B4%E5%88%B9%E5%A4%A9-%E5%B0%9D%E4%B8%80%E5%8F%A3%E6%97%A5%E5%B8%B8%E5%91%B3-%E6%89%BE%E4%B8%80%E6%9D%A1%E5%9B%9E%E5%AE%B6/",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X Ø",
+        "imagePath": ["photo/F10.jpg"]
+      },
+      {
+        "title": "Oriental Daily",
+        "media": "Newspaper Article on",
+        "source": "【艺术廊】非正式舞台、即兴演出方式 \n不完美呈献完美",
+        "sourceLink": "https://www.orientaldaily.com.my/news/sh69/2018/11/16/267786",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X Ø",
+        "imagePath": ["photo/F11.jpg"]
+      },
+      {
+        "title": "Chinapress",
+        "media": "Newspaper Article on",
+        "source": "暴風雨毀數十年心血 買半成家具助老廠主",
+        "sourceLink": "https://kl.chinapress.com.my/20180911/%E6%9A%B4%E9%A2%A8%E9%9B%A8%E6%AF%80%E6%95%B8%E5%8D%81%E5%B9%B4%E5%BF%83%E8%A1%80-%E8%B2%B7%E5%8D%8A%E6%88%90%E5%AE%B6%E5%85%B7%E5%8A%A9%E8%80%81%E5%BB%A0%E4%B8%BB/",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X Ø",
+        "imagePath": ["photo/F12.jpg"]
+      },
+      {
+        "title": "Oriental Daily",
+        "media": "Newspaper Article on",
+        "source": "【特写】“声”气勃勃 馆含新使命",
+        "sourceLink": "https://www.orientaldaily.com.my/news/shtx/2017/08/25/209971",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X Ø",
+        "imagePath": ["photo/F13.jpg"]
+      },
+      {
+        "title": "Sin Chew",
+        "media": "Newspaper Article on",
+        "source": "【打破想像的图书馆】\n册厝、亚答屋： 84号图书馆",
+        "sourceLink": "https://www.sinchew.com.my/20170304/%E3%80%90%E6%89%93%E7%A0%B4%E6%83%B3%E5%83%8F%E7%9A%84%E5%9B%BE%E4%B9%A6%E9%A6%86%E3%80%91%E5%86%8C%E5%8E%9D%E3%80%81%E4%BA%9A%E7%AD%94%E5%B1%8B%EF%BC%9A-84%E5%8F%B7%E5%9B%BE%E4%B9%A6%E9%A6%86%C2%B7/",
+        "color": [
+          "Light blue"
+        ],
+        "type": "X Ø",
+        "imagePath": ["photo/F14.jpg"]
+      }
+    ],
+    "publication": [
+      {
+        "title": "《建築師》雜誌社",
+        "media": "Article on",
+        "source": "Architectural Force — \n Architectural Practice in Malaysia \n馬來西亞建築環境",
+        "sourceLink": null,
+        "color": [
+          "Light blue"
+        ],
+        "type": null,
+        "imagePath": [
+          "photo/P1.jpg"
+        ]
+      }
+    ]
+  }
+}
