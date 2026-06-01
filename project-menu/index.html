@@ -10,8 +10,63 @@
 <body>
   <div data-header></div>
 
-  <main class="page-shell">
-    <h1>Project Menu</h1>
+  <main class="project-menu" aria-label="Project menu">
+    <div class="tag-stage">
+      <nav class="type-axis" aria-label="Project types">
+        <button class="menu-tag is-active" type="button" aria-label="Creative Archival" data-menu-id="creative-archival">
+          <span class="menu-tag-label">Creative Archival</span>
+          <span class="menu-tag-symbol type-symbol">*</span>
+        </button>
+        <button class="menu-tag" type="button" aria-label="Literary Adaptation" data-menu-id="literary-adaptation">
+          <span class="menu-tag-label">Literary Adaptation</span>
+          <span class="menu-tag-symbol type-symbol">"</span>
+        </button>
+        <button class="menu-tag" type="button" aria-label="Modular // Joinery" data-menu-id="modular-joinery">
+          <span class="menu-tag-label">Modular // Joinery</span>
+          <span class="menu-tag-symbol type-symbol">÷</span>
+        </button>
+        <button class="menu-tag" type="button" aria-label="Place Activation" data-menu-id="place-activation">
+          <span class="menu-tag-label">Place Activation</span>
+          <span class="menu-tag-symbol type-symbol">Ø</span>
+        </button>
+        <button class="menu-tag" type="button" aria-label="Participatory Design" data-menu-id="participatory-design">
+          <span class="menu-tag-label">Participatory Design</span>
+          <span class="menu-tag-symbol type-symbol">X</span>
+        </button>
+        <button class="menu-tag" type="button" aria-label="Play" data-menu-id="play">
+          <span class="menu-tag-label">Play</span>
+          <span class="menu-tag-symbol type-symbol">!</span>
+        </button>
+      </nav>
+
+      <nav class="category-axis" aria-label="Project categories">
+        <button class="menu-tag category-tag is-red" type="button" aria-label="Arch. Edu." data-menu-id="red">
+          <span class="menu-tag-label">Arch. Edu.</span>
+          <span class="menu-tag-symbol category-symbol is-red"></span>
+        </button>
+        <button class="menu-tag category-tag is-dark-blue" type="button" aria-label="Live Build" data-menu-id="dark-blue">
+          <span class="menu-tag-label">Live Build</span>
+          <span class="menu-tag-symbol category-symbol is-dark-blue"></span>
+        </button>
+        <button class="menu-tag category-tag is-light-blue" type="button" aria-label="Curation" data-menu-id="light-blue">
+          <span class="menu-tag-label">Curation</span>
+          <span class="menu-tag-symbol category-symbol is-light-blue"></span>
+        </button>
+        <button class="menu-tag category-tag is-green" type="button" aria-label="Grassspace" data-menu-id="green">
+          <span class="menu-tag-label">Grassspace</span>
+          <span class="menu-tag-symbol category-symbol is-green"></span>
+        </button>
+      </nav>
+    </div>
+
+    <section class="project-content" aria-live="polite">
+      <div class="project-text">
+        <h1 class="project-heading" data-project-heading></h1>
+        <div class="project-copy" data-project-copy></div>
+        <ul class="project-list" data-project-list></ul>
+      </div>
+      <div class="project-gallery" data-project-gallery></div>
+    </section>
   </main>
 
   <script src="../header/header.js"></script>

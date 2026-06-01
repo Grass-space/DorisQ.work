@@ -62,6 +62,7 @@ body {
 
 .bio-copy.is-zh p {
   font-size: 13px;
+  line-height: 1.55;
 }
 
 .bio-language-switch {

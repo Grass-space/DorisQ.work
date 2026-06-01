@@ -129,7 +129,7 @@
                                               "title":  "Miniature Town",
                                               "colorGroup":  "red",
                                               "tags":  [
-
+                                                           "literary-adaptation"
                                                        ],
                                               "folderPath":  "categories/red/form-play-precedence/",
                                               "year":  2016
@@ -146,7 +146,7 @@
                                               "title":  "Form Play Precedence",
                                               "colorGroup":  "red",
                                               "tags":  [
-
+                                                           "play"
                                                        ],
                                               "folderPath":  "categories/red/form-play-precedence/",
                                               "year":  2020,
@@ -219,7 +219,7 @@
                                               "title":  "6 Trades",
                                               "colorGroup":  "red",
                                               "tags":  [
-
+                                                           "creative-archival"
                                                        ],
                                               "folderPath":  "categories/red/6-trades/",
                                               "year":  2024,
@@ -431,7 +431,8 @@
                                               "title":  "Light-up Sinderut",
                                               "colorGroup":  "dark-blue",
                                               "tags":  [
-
+                                                           "place-activation",
+                                                           "participatory-design"
                                                        ],
                                               "folderPath":  "categories/dark-blue/light-up-sinderut/",
                                               "year":  2025,
@@ -449,7 +450,8 @@
                                               "title":  "Gap-space : Pasar",
                                               "colorGroup":  "dark-blue",
                                               "tags":  [
-
+                                                           "creative-archival",
+                                                           "play"
                                                        ],
                                               "folderPath":  "categories/dark-blue/gap-space-pasar/",
                                               "year":  2026,
@@ -485,7 +487,9 @@
                                               "title":  "Timber Flyship",
                                               "colorGroup":  "medium-blue",
                                               "tags":  [
-
+                                                           "modular-joinery",
+                                                           "place-activation",
+                                                           "play"
                                                        ],
                                               "folderPath":  "categories/medium-blue/timber-flyship/",
                                               "year":  2025,
@@ -504,7 +508,8 @@
                                               "colorGroup":  "light-blue",
                                               "tags":  [
                                                            "modular-joinery",
-                                                           "participatory-design"
+                                                           "participatory-design",
+                                                           "play"
                                                        ],
                                               "folderPath":  "categories/light-blue/dog-wheelchair/",
                                               "year":  2022,
@@ -580,7 +585,7 @@
                                               "title":  "Cosmicomic Playscape",
                                               "colorGroup":  "light-blue",
                                               "tags":  [
-                                                           "creative-archival",
+                                                           "literary-adaptation",
                                                            "place-activation",
                                                            "participatory-design",
                                                            "play"
@@ -657,7 +662,7 @@
                                               "title":  "Creative Archival Workshop",
                                               "colorGroup":  "light-blue",
                                               "tags":  [
-
+                                                           "creative-archival"
                                                        ],
                                               "folderPath":  "categories/light-blue/creative-archival-workshop/",
                                               "year":  2025,
@@ -675,7 +680,8 @@
                                               "title":  "Reimagining Charcoal",
                                               "colorGroup":  "light-blue",
                                               "tags":  [
-
+                                                           "place-activation",
+                                                           "participatory-design"
                                                        ],
                                               "folderPath":  "categories/light-blue/reimagining-charcoal/",
                                               "year":  2026,
@@ -738,13 +744,13 @@
                                       ]
                      },
                      {
-                         "id":  "arcylic-tubes-noodle",
+                         "id":  "acrylic-tubes-noodle",
                          "type":  "single",
                          "projects":  [
                                           {
                                               "folder":  "acrylic-tubes-noodle",
                                               "side":  "left",
-                                              "title":  "Arcylic Tubes Noodle",
+                                              "title":  "Acrylic Tubes Noodle",
                                               "colorGroup":  "green",
                                               "tags":  [
 
@@ -801,8 +807,8 @@
                                               "title":  "Forest School",
                                               "colorGroup":  "green",
                                               "tags":  [
-                                                           "modular-joinery",
-                                                           "place-activation"
+                                                           "modular-joinery"
+                                                           
                                                        ],
                                               "folderPath":  "categories/green/forest-school/",
                                               "year":  2023,
