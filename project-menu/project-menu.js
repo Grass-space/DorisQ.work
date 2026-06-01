@@ -15,12 +15,13 @@ const menuText = {
 };
 
 const menuHeadingText = {
-  red: "Architecture Teaching\nDesign Studio + Material Fabrication"
+  red: "Architecture Education"
 };
 
 const colorFilterIds = new Set(["red", "dark-blue", "light-blue", "green"]);
 const colorFilterGroups = {
-  "dark-blue": new Set(["dark-blue", "medium-blue"])
+  "dark-blue": new Set(["dark-blue", "medium-blue"]),
+  green: new Set(["green", "light-green"])
 };
 const colorValues = {
   red: "#ff0000",
@@ -203,7 +204,7 @@ function createProjectListItem(project) {
 }
 
 function getProjectHref(project) {
-  return `${project.folderPath}index.html`;
+  return `../${project.folderPath}index.html`;
 }
 
 function getProjectImageBaseName(project) {

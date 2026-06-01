@@ -33,32 +33,32 @@
                    ],
     "colorGroups":  {
                         "red":  {
-                                    "label":  "Red",
+                                    "label":  "Architecture Education",
                                     "hex":  "#ff0000",
                                     "overlay":  "rgba(255, 0, 0, 0.5)"
                                 },
                         "dark-blue":  {
-                                          "label":  "Dark Blue",
+                                          "label":  "Live Build",
                                           "hex":  "#0070c0",
                                           "overlay":  "rgba(0, 112, 192, 0.5)"
                                       },
                         "light-blue":  {
-                                           "label":  "Light Blue",
+                                           "label":  "Curation",
                                            "hex":  "#00bbff",
                                            "overlay":  "rgba(0, 187, 255, 0.5)"
                                        },
                         "green":  {
-                                      "label":  "Green",
+                                      "label":  "Grassspace",
                                       "hex":  "#00b050",
                                       "overlay":  "rgba(0, 176, 80, 0.5)"
                                   },
                         "medium-blue":  {
-                                            "label":  "Medium Blue",
+                                            "label":  "Live Build",
                                             "hex":  "#2fa6e1",
                                             "overlay":  "rgba(47, 166, 225, 0.5)"
                                         },
                         "light-green":  {
-                                            "label":  "Light Green",
+                                            "label":  "Grassspace",
                                             "hex":  "#5deca0",
                                             "overlay":  "rgba(93, 236, 160, 0.5)"
                                         }
@@ -77,7 +77,7 @@
                                                            "literary-adaptation",
                                                            "play"
                                                        ],
-                                              "folderPath":  "categories/red/body-architecture/",
+                                              "folderPath":  "categories/architecture-education/body-architecture/",
                                               "year":  2023,
                                               "timelineOrder":  6
                                           }
@@ -95,7 +95,7 @@
                                               "tags":  [
                                                            "literary-adaptation"
                                                        ],
-                                              "folderPath":  "categories/red/project-cosimo/",
+                                              "folderPath":  "categories/architecture-education/project-cosimo/",
                                               "year":  2021,
                                               "timelineOrder":  1
                                           }
@@ -113,7 +113,7 @@
                                               "tags":  [
                                                            "literary-adaptation"
                                                        ],
-                                              "folderPath":  "categories/red/a-room-to/",
+                                              "folderPath":  "categories/architecture-education/a-room-to/",
                                               "year":  2023,
                                               "timelineOrder":  5
                                           }
@@ -131,7 +131,7 @@
                                               "tags":  [
                                                            "literary-adaptation"
                                                        ],
-                                              "folderPath":  "categories/red/form-play-precedence/",
+                                              "folderPath":  "categories/architecture-education/form-play-precedence/",
                                               "year":  2016
                                           }
                                       ]
@@ -148,7 +148,7 @@
                                               "tags":  [
                                                            "play"
                                                        ],
-                                              "folderPath":  "categories/red/form-play-precedence/",
+                                              "folderPath":  "categories/architecture-education/form-play-precedence/",
                                               "year":  2020,
                                               "timelineOrder":  3
                                           }
@@ -167,7 +167,7 @@
                                                            "creative-archival",
                                                            "place-activation"
                                                        ],
-                                              "folderPath":  "categories/red/temu-tamu-timun/",
+                                              "folderPath":  "categories/architecture-education/temu-tamu-timun/",
                                               "year":  2020,
                                               "timelineOrder":  5
                                           }
@@ -185,7 +185,7 @@
                                               "tags":  [
                                                            "creative-archival"
                                                        ],
-                                              "folderPath":  "categories/red/lukis-siang-malam/",
+                                              "folderPath":  "categories/architecture-education/lukis-siang-malam/",
                                               "year":  2020,
                                               "timelineOrder":  6
                                           }
@@ -203,7 +203,7 @@
                                               "tags":  [
                                                            "modular-joinery"
                                                        ],
-                                              "folderPath":  "categories/red/paper-reciprocal/",
+                                              "folderPath":  "categories/architecture-education/paper-reciprocal/",
                                               "year":  2021,
                                               "timelineOrder":  2
                                           }
@@ -221,7 +221,7 @@
                                               "tags":  [
                                                            "creative-archival"
                                                        ],
-                                              "folderPath":  "categories/red/6-trades/",
+                                              "folderPath":  "categories/architecture-education/6-trades/",
                                               "year":  2024,
                                               "timelineOrder":  6
                                           }
@@ -241,7 +241,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/red/living-museum/",
+                                              "folderPath":  "categories/architecture-education/living-museum/",
                                               "year":  2024,
                                               "timelineOrder":  2
                                           },
@@ -255,7 +255,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/dark-blue/unreel-pangkor/",
+                                              "folderPath":  "categories/live-build/unreel-pangkor/",
                                               "year":  2023,
                                               "timelineOrder":  1
                                           }
@@ -275,7 +275,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/red/bamboo-joinery/",
+                                              "folderPath":  "categories/architecture-education/bamboo-joinery/",
                                               "year":  2022,
                                               "timelineOrder":  4
                                           },
@@ -289,7 +289,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/dark-blue/bamboo-joinery/",
+                                              "folderPath":  "categories/live-build/bamboo-joinery/",
                                               "year":  2022,
                                               "timelineOrder":  1
                                           }
@@ -309,7 +309,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/red/wooden-joinery/",
+                                              "folderPath":  "categories/architecture-education/wooden-joinery/",
                                               "year":  2019,
                                               "timelineOrder":  1
                                           },
@@ -323,7 +323,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/dark-blue/wooden-joinery/",
+                                              "folderPath":  "categories/live-build/wooden-joinery/",
                                               "year":  2020,
                                               "timelineOrder":  1
                                           }
@@ -343,7 +343,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/red/wooden-joinery/",
+                                              "folderPath":  "categories/architecture-education/wooden-joinery/",
                                               "timelineHidden":  true
                                           },
                                           {
@@ -356,7 +356,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/dark-blue/new-vernacular-ground/",
+                                              "folderPath":  "categories/live-build/new-vernacular-ground/",
                                               "year":  2022,
                                               "timelineOrder":  2
                                           }
@@ -377,7 +377,7 @@
                                                            "participatory-design",
                                                            "play"
                                                        ],
-                                              "folderPath":  "categories/dark-blue/belemang-playscape/",
+                                              "folderPath":  "categories/live-build/belemang-playscape/",
                                               "year":  2020,
                                               "timelineOrder":  2
                                           }
@@ -397,7 +397,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/dark-blue/sasaran-installation-park/",
+                                              "folderPath":  "categories/live-build/sasaran-installation-park/",
                                               "year":  2012
                                           }
                                       ]
@@ -415,7 +415,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/dark-blue/carpark-intervension/",
+                                              "folderPath":  "categories/live-build/carpark-intervension/",
                                               "year":  2019,
                                               "timelineOrder":  4
                                           }
@@ -434,7 +434,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/dark-blue/light-up-sinderut/",
+                                              "folderPath":  "categories/live-build/light-up-sinderut/",
                                               "year":  2025,
                                               "timelineOrder":  4
                                           }
@@ -453,7 +453,7 @@
                                                            "creative-archival",
                                                            "play"
                                                        ],
-                                              "folderPath":  "categories/dark-blue/gap-space-pasar/",
+                                              "folderPath":  "categories/live-build/gap-space-pasar/",
                                               "year":  2026,
                                               "timelineOrder":  1
                                           }
@@ -471,7 +471,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/medium-blue/barely-grounded/",
+                                              "folderPath":  "categories/live-build/barely-grounded/",
                                               "year":  2025,
                                               "timelineOrder":  6
                                           }
@@ -491,7 +491,7 @@
                                                            "place-activation",
                                                            "play"
                                                        ],
-                                              "folderPath":  "categories/medium-blue/timber-flyship/",
+                                              "folderPath":  "categories/live-build/timber-flyship/",
                                               "year":  2025,
                                               "timelineOrder":  1
                                           }
@@ -511,7 +511,7 @@
                                                            "participatory-design",
                                                            "play"
                                                        ],
-                                              "folderPath":  "categories/light-blue/dog-wheelchair/",
+                                              "folderPath":  "categories/curation/dog-wheelchair/",
                                               "year":  2022,
                                               "timelineOrder":  5
                                           }
@@ -530,7 +530,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/light-blue/pasal-pasar/",
+                                              "folderPath":  "categories/curation/pasal-pasar/",
                                               "year":  2020,
                                               "timelineOrder":  7
                                           }
@@ -549,7 +549,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/light-blue/kongsikl-activation/",
+                                              "folderPath":  "categories/curation/kongsikl-activation/",
                                               "year":  2019,
                                               "timelineOrder":  5
                                           }
@@ -569,7 +569,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/light-blue/pj6-micropark/",
+                                              "folderPath":  "categories/curation/pj6-micropark/",
                                               "year":  2019,
                                               "timelineOrder":  3
                                           }
@@ -590,7 +590,7 @@
                                                            "participatory-design",
                                                            "play"
                                                        ],
-                                              "folderPath":  "categories/light-blue/cosmicomic-toyscape/",
+                                              "folderPath":  "categories/curation/cosmicomic-toyscape/",
                                               "year":  2018
                                           }
                                       ]
@@ -608,7 +608,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/light-blue/urban-linear-park/",
+                                              "folderPath":  "categories/curation/urban-linear-park/",
                                               "year":  2017,
                                               "timelineOrder":  3
                                           }
@@ -627,7 +627,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/light-blue/reelife-pangkor/",
+                                              "folderPath":  "categories/curation/reelife-pangkor/",
                                               "year":  2024,
                                               "timelineOrder":  1
                                           }
@@ -646,7 +646,7 @@
                                                            "modular-joinery",
                                                            "place-activation"
                                                        ],
-                                              "folderPath":  "categories/light-blue/latrine-project/",
+                                              "folderPath":  "categories/curation/latrine-project/",
                                               "year":  2017,
                                               "timelineOrder":  4
                                           }
@@ -664,7 +664,7 @@
                                               "tags":  [
                                                            "creative-archival"
                                                        ],
-                                              "folderPath":  "categories/light-blue/creative-archival-workshop/",
+                                              "folderPath":  "categories/curation/creative-archival-workshop/",
                                               "year":  2025,
                                               "timelineOrder":  5
                                           }
@@ -683,7 +683,7 @@
                                                            "place-activation",
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/light-blue/reimagining-charcoal/",
+                                              "folderPath":  "categories/curation/reimagining-charcoal/",
                                               "year":  2026,
                                               "timelineOrder":  2
                                           }
@@ -701,7 +701,7 @@
                                               "tags":  [
                                                            "participatory-design"
                                                        ],
-                                              "folderPath":  "categories/green/rustic-korean-bar/",
+                                              "folderPath":  "categories/grassspace/rustic-korean-bar/",
                                               "year":  2017,
                                               "timelineOrder":  1
                                           }
@@ -719,7 +719,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/green/curvi-coffee-bar/",
+                                              "folderPath":  "categories/grassspace/curvi-coffee-bar/",
                                               "year":  2017,
                                               "timelineOrder":  2
                                           }
@@ -737,7 +737,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/green/rice-lightbox-noodle/",
+                                              "folderPath":  "categories/grassspace/rice-lightbox-noodle/",
                                               "year":  2020,
                                               "timelineOrder":  4
                                           }
@@ -755,7 +755,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/green/acrylic-tubes-noodle/",
+                                              "folderPath":  "categories/grassspace/acrylic-tubes-noodle/",
                                               "year":  2020,
                                               "timelineOrder":  8
                                           }
@@ -773,7 +773,7 @@
                                               "tags":  [
                                                            "modular-joinery"
                                                        ],
-                                              "folderPath":  "categories/green/modular-blocks-tittar/",
+                                              "folderPath":  "categories/grassspace/modular-blocks-tittar/",
                                               "year":  2019,
                                               "timelineOrder":  2
                                           }
@@ -791,7 +791,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/green/casa-tayton/",
+                                              "folderPath":  "categories/grassspace/casa-tayton/",
                                               "year":  2023,
                                               "timelineOrder":  3
                                           }
@@ -808,9 +808,8 @@
                                               "colorGroup":  "green",
                                               "tags":  [
                                                            "modular-joinery"
-                                                           
                                                        ],
-                                              "folderPath":  "categories/green/forest-school/",
+                                              "folderPath":  "categories/grassspace/forest-school/",
                                               "year":  2023,
                                               "timelineOrder":  4
                                           }
@@ -829,7 +828,7 @@
                                                            "creative-archival",
                                                            "modular-joinery"
                                                        ],
-                                              "folderPath":  "categories/green/tankarkee-memorial/",
+                                              "folderPath":  "categories/grassspace/tankarkee-memorial/",
                                               "year":  2023,
                                               "timelineOrder":  2
                                           }
@@ -847,7 +846,7 @@
                                               "tags":  [
                                                            "creative-archival"
                                                        ],
-                                              "folderPath":  "categories/green/hainan-museum/",
+                                              "folderPath":  "categories/grassspace/hainan-museum/",
                                               "year":  2024,
                                               "timelineOrder":  7
                                           }
@@ -865,7 +864,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/green/casa-sering/",
+                                              "folderPath":  "categories/grassspace/casa-sering/",
                                               "year":  2024,
                                               "timelineOrder":  3
                                           }
@@ -883,7 +882,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/light-green/nisiap/",
+                                              "folderPath":  "categories/grassspace/nisiap/",
                                               "year":  2025,
                                               "timelineOrder":  3
                                           }
@@ -901,7 +900,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/light-green/tcdl/",
+                                              "folderPath":  "categories/grassspace/tcdl/",
                                               "year":  2024,
                                               "timelineOrder":  5
                                           }
@@ -919,7 +918,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/light-green/mokyee/",
+                                              "folderPath":  "categories/grassspace/mokyee/",
                                               "year":  2024,
                                               "timelineOrder":  4
                                           }
@@ -937,7 +936,7 @@
                                               "tags":  [
 
                                                        ],
-                                              "folderPath":  "categories/light-green/doris-q/",
+                                              "folderPath":  "categories/grassspace/doris-q/",
                                               "year":  2025,
                                               "timelineOrder":  2
                                           }

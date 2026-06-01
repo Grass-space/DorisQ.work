@@ -26,7 +26,7 @@
   }
 
   function getProjectHref(project) {
-    return `project-menu/${project.folderPath}index.html`;
+    return `${project.folderPath}index.html`;
   }
 
   function getTimelineColorGroup(colorGroup) {

@@ -29,7 +29,7 @@ Each project lives inside a `homeRows` item:
   "title": "Example Project",
   "colorGroup": "red",
   "tags": ["creative-archival", "play"],
-  "folderPath": "categories/red/example-project/"
+  "folderPath": "categories/architecture-education/example-project/"
 }
 ```
 
@@ -40,7 +40,7 @@ Required fields:
 - `title`: display title.
 - `colorGroup`: one of the defined color groups.
 - `tags`: category IDs that show as symbols in the six-column matrix.
-- `folderPath`: where the project page will live under `project-menu/`.
+- `folderPath`: where the project page will live from the site root.
 
 ## Color Groups
 
@@ -55,7 +55,7 @@ green
 light-green
 ```
 
-Use the same color group in both:
+Use the color group for the homepage/timeline marker:
 
 ```json
 "colorGroup": "red"
@@ -64,7 +64,16 @@ Use the same color group in both:
 and:
 
 ```json
-"folderPath": "categories/red/project-folder/"
+"folderPath": "categories/architecture-education/project-folder/"
+```
+
+`folderPath` uses the broader content folder, not the visual color name:
+
+```text
+red -> categories/architecture-education/
+dark-blue, medium-blue -> categories/live-build/
+light-blue -> categories/curation/
+green, light-green -> categories/grassspace/
 ```
 
 ## Tags
@@ -119,7 +128,7 @@ Right-side example:
       "title": "New Red Project",
       "colorGroup": "red",
       "tags": ["creative-archival"],
-      "folderPath": "categories/red/new-red-project/"
+      "folderPath": "categories/architecture-education/new-red-project/"
     }
   ]
 }
@@ -138,7 +147,7 @@ Left-side example:
       "title": "New Dark Blue Project",
       "colorGroup": "dark-blue",
       "tags": ["place-activation"],
-      "folderPath": "categories/dark-blue/new-dark-blue-project/"
+      "folderPath": "categories/live-build/new-dark-blue-project/"
     }
   ]
 }
@@ -161,7 +170,7 @@ Example:
       "title": "New Red Project",
       "colorGroup": "red",
       "tags": ["creative-archival"],
-      "folderPath": "categories/red/new-red-project/"
+      "folderPath": "categories/architecture-education/new-red-project/"
     },
     {
       "folder": "new-dark-blue-project",
@@ -169,7 +178,7 @@ Example:
       "title": "New Dark Blue Project",
       "colorGroup": "dark-blue",
       "tags": ["creative-archival"],
-      "folderPath": "categories/dark-blue/new-dark-blue-project/"
+      "folderPath": "categories/live-build/new-dark-blue-project/"
     }
   ]
 }
@@ -266,19 +275,19 @@ Doris Q
 After adding a project to JSON, create its project folder:
 
 ```text
-project-menu/categories/{colorGroup}/{folder}/
+categories/{contentGroup}/{folder}/
 ```
 
 Then create:
 
 ```text
-project-menu/categories/{colorGroup}/{folder}/index.html
+categories/{contentGroup}/{folder}/index.html
 ```
 
 Example:
 
 ```text
-project-menu/categories/red/new-red-project/index.html
+categories/architecture-education/new-red-project/index.html
 ```
 
 ## Things To Check
@@ -288,7 +297,7 @@ After editing JSON:
 1. Make sure the JSON is valid.
 2. Make sure every `colorGroup` exists in `colorGroups`.
 3. Make sure every tag exists in `categories`.
-4. Make sure `folderPath` matches `colorGroup` and `folder`.
+4. Make sure `folderPath` matches the content group and `folder`.
 5. Refresh the homepage and check:
    - title appears in the right order,
    - marker color is correct,

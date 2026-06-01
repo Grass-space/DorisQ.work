@@ -18,7 +18,7 @@ function createElement(tagName, className, text) {
 }
 
 function getProjectHref(project) {
-  return `project-menu/${project.folderPath}index.html`;
+  return `${project.folderPath}index.html`;
 }
 
 function getColor(data, colorGroup) {
@@ -34,7 +34,7 @@ function buildCategoryAxis(categories) {
 
   categories.forEach((category) => {
     const link = createElement("a", "category-link");
-    link.href = `project-menu/categories/${category.id}/`;
+    link.href = `categories/${category.id}/`;
     link.setAttribute("aria-label", category.title);
 
     const categoryContent = createElement("div", "category");

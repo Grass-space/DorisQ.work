@@ -1,0 +1,546 @@
+﻿{
+    "version":  1,
+    "templatesPath":  "template/",
+    "projects":  [
+                     {
+                         "rowId":  "body-architecture",
+                         "slug":  "body-architecture",
+                         "title":  "Body Architecture",
+                         "path":  "architecture-education/body-architecture",
+                         "colorGroup":  "red",
+                         "sections":  [
+                                          {
+                                              "template":  "a-intro"
+                                          },
+                                          {
+                                              "template":  "d-video",
+                                              "caption":  "Video 1"
+                                          },
+                                          {
+                                              "template":  "d-video",
+                                              "caption":  "Video 2"
+                                          },
+                                          {
+                                              "template":  "h-grid"
+                                          },
+                                          {
+                                              "template":  "b-gallery"
+                                          },
+                                          {
+                                              "template":  "h-grid",
+                                              "caption":  "Media Grid 2"
+                                          },
+                                          {
+                                              "template":  "z-credit"
+                                          }
+                                      ]
+                     },
+                     {
+                         "rowId":  "project-cosimo",
+                         "slug":  "project-cosimo",
+                         "title":  "Project Cosimo",
+                         "path":  "architecture-education/project-cosimo",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "a-room-to",
+                         "slug":  "a-room-to",
+                         "title":  "A Room to ___",
+                         "path":  "architecture-education/a-room-to",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "miniature-town",
+                         "slug":  "form-play-precedence",
+                         "title":  "Miniature Town",
+                         "path":  "architecture-education/form-play-precedence",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "form-play-precedence",
+                         "slug":  "form-play-precedence",
+                         "title":  "Form Play Precedence",
+                         "path":  "architecture-education/form-play-precedence",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "temu-tamu-timun",
+                         "slug":  "temu-tamu-timun",
+                         "title":  "Temu Tamu Timun",
+                         "path":  "architecture-education/temu-tamu-timun",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "lukis-siang-malam",
+                         "slug":  "lukis-siang-malam",
+                         "title":  "Lukis Siang Malam",
+                         "path":  "architecture-education/lukis-siang-malam",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "paper-reciprocal",
+                         "slug":  "paper-reciprocal",
+                         "title":  "Paper Reciprocal",
+                         "path":  "architecture-education/paper-reciprocal",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "6-trades",
+                         "slug":  "6-trades",
+                         "title":  "6 Trades",
+                         "path":  "architecture-education/6-trades",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "living-museum-unreel-pangkor",
+                         "slug":  "living-museum",
+                         "title":  "Living Museum",
+                         "path":  "architecture-education/living-museum",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "living-museum-unreel-pangkor",
+                         "slug":  "unreel-pangkor",
+                         "title":  "Unreel Pangkor",
+                         "path":  "live-build/unreel-pangkor",
+                         "colorGroup":  "dark-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "bamboo-joinery-bamboo-dog-house",
+                         "slug":  "bamboo-joinery",
+                         "title":  "Bamboo Joinery",
+                         "path":  "architecture-education/bamboo-joinery",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "bamboo-joinery-bamboo-dog-house",
+                         "slug":  "bamboo-joinery",
+                         "title":  "Bamboo Dog House",
+                         "path":  "live-build/bamboo-joinery",
+                         "colorGroup":  "dark-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "wooden-joinery-keramat-library",
+                         "slug":  "wooden-joinery",
+                         "title":  "Wooden Joinery",
+                         "path":  "architecture-education/wooden-joinery",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "wooden-joinery-keramat-library",
+                         "slug":  "wooden-joinery",
+                         "title":  "Keramat Library",
+                         "path":  "live-build/wooden-joinery",
+                         "colorGroup":  "dark-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "wooden-joinery-new-vernacular-ground",
+                         "slug":  "wooden-joinery",
+                         "title":  "Wooden Joinery",
+                         "path":  "architecture-education/wooden-joinery",
+                         "colorGroup":  "red",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "wooden-joinery-new-vernacular-ground",
+                         "slug":  "new-vernacular-ground",
+                         "title":  "New Vernacular Ground",
+                         "path":  "live-build/new-vernacular-ground",
+                         "colorGroup":  "dark-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "belemang-playscape",
+                         "slug":  "belemang-playscape",
+                         "title":  "Belemang Playscape",
+                         "path":  "live-build/belemang-playscape",
+                         "colorGroup":  "dark-blue",
+                         "sections":  [
+                                          {
+                                              "template":  "a-intro"
+                                          },
+                                          {
+                                              "template":  "e-showcase"
+                                          },
+                                          {
+                                              "template":  "d-video",
+                                              "caption":  "Video 1"
+                                          },
+                                          {
+                                              "template":  "d-video",
+                                              "caption":  "Video 2"
+                                          },
+                                          {
+                                              "template":  "c-progress"
+                                          },
+                                          {
+                                              "template":  "d-video",
+                                              "caption":  "Video 3"
+                                          },
+                                          {
+                                              "template":  "f-image"
+                                          },
+                                          {
+                                              "template":  "z-credit"
+                                          }
+                                      ]
+                     },
+                     {
+                         "rowId":  "sasaran-installation-park",
+                         "slug":  "sasaran-installation-park",
+                         "title":  "Sasaran Installation Park",
+                         "path":  "live-build/sasaran-installation-park",
+                         "colorGroup":  "dark-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "carpark-intervention",
+                         "slug":  "carpark-intervension",
+                         "title":  "Carpark Intervention",
+                         "path":  "live-build/carpark-intervension",
+                         "colorGroup":  "dark-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "light-up-sinderut",
+                         "slug":  "light-up-sinderut",
+                         "title":  "Light-up Sinderut",
+                         "path":  "live-build/light-up-sinderut",
+                         "colorGroup":  "dark-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "gap-space-pasar",
+                         "slug":  "gap-space-pasar",
+                         "title":  "Gap-space : Pasar",
+                         "path":  "live-build/gap-space-pasar",
+                         "colorGroup":  "dark-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "barely-grounded",
+                         "slug":  "barely-grounded",
+                         "title":  "Barely Grounded",
+                         "path":  "live-build/barely-grounded",
+                         "colorGroup":  "medium-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "timber-flyship",
+                         "slug":  "timber-flyship",
+                         "title":  "Timber Flyship",
+                         "path":  "live-build/timber-flyship",
+                         "colorGroup":  "medium-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "dog-wheelchair",
+                         "slug":  "dog-wheelchair",
+                         "title":  "Dog Wheelchair",
+                         "path":  "curation/dog-wheelchair",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "pasal-pasar",
+                         "slug":  "pasal-pasar",
+                         "title":  "Pasal Pasar",
+                         "path":  "curation/pasal-pasar",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "kongsi-kl-activation",
+                         "slug":  "kongsikl-activation",
+                         "title":  "Kongsi KL Activation",
+                         "path":  "curation/kongsikl-activation",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "pj6-micro-park",
+                         "slug":  "pj6-micropark",
+                         "title":  "PJ6 Micro Park",
+                         "path":  "curation/pj6-micropark",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "cosmicomic-playscape",
+                         "slug":  "cosmicomic-toyscape",
+                         "title":  "Cosmicomic Playscape",
+                         "path":  "curation/cosmicomic-toyscape",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "urban-linear-park",
+                         "slug":  "urban-linear-park",
+                         "title":  "Urban Linear Park",
+                         "path":  "curation/urban-linear-park",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "reelife-pangkor",
+                         "slug":  "reelife-pangkor",
+                         "title":  "Reelife Pangkor",
+                         "path":  "curation/reelife-pangkor",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "latrine-project",
+                         "slug":  "latrine-project",
+                         "title":  "Latrine Project",
+                         "path":  "curation/latrine-project",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "creative-archival-workshop",
+                         "slug":  "creative-archival-workshop",
+                         "title":  "Creative Archival Workshop",
+                         "path":  "curation/creative-archival-workshop",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "reimagining-charcoal",
+                         "slug":  "reimagining-charcoal",
+                         "title":  "Reimagining Charcoal",
+                         "path":  "curation/reimagining-charcoal",
+                         "colorGroup":  "light-blue",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "rustic-korean-bar",
+                         "slug":  "rustic-korean-bar",
+                         "title":  "Rustic Korean Bar",
+                         "path":  "grassspace/rustic-korean-bar",
+                         "colorGroup":  "green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "curvi-coffee-bar",
+                         "slug":  "curvi-coffee-bar",
+                         "title":  "Curvi Coffee Bar",
+                         "path":  "grassspace/curvi-coffee-bar",
+                         "colorGroup":  "green",
+                         "sections":  [
+                                          {
+                                              "template":  "a-intro"
+                                          },
+                                          {
+                                              "template":  "g-description"
+                                          },
+                                          {
+                                              "template":  "b-gallery"
+                                          },
+                                          {
+                                              "template":  "z-credit"
+                                          }
+                                      ]
+                     },
+                     {
+                         "rowId":  "rice-lightbox-noodle",
+                         "slug":  "rice-lightbox-noodle",
+                         "title":  "Rice Lightbox Noodle",
+                         "path":  "grassspace/rice-lightbox-noodle",
+                         "colorGroup":  "green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "acrylic-tubes-noodle",
+                         "slug":  "acrylic-tubes-noodle",
+                         "title":  "Acrylic Tubes Noodle",
+                         "path":  "grassspace/acrylic-tubes-noodle",
+                         "colorGroup":  "green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "modular-blocks-tittar",
+                         "slug":  "modular-blocks-tittar",
+                         "title":  "Modular Blocks Tittar",
+                         "path":  "grassspace/modular-blocks-tittar",
+                         "colorGroup":  "green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "casa-tayton",
+                         "slug":  "casa-tayton",
+                         "title":  "Casa Tayton",
+                         "path":  "grassspace/casa-tayton",
+                         "colorGroup":  "green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "forest-school",
+                         "slug":  "forest-school",
+                         "title":  "Forest School",
+                         "path":  "grassspace/forest-school",
+                         "colorGroup":  "green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "tankarkee-memorial",
+                         "slug":  "tankarkee-memorial",
+                         "title":  "TanKarKee Memorial",
+                         "path":  "grassspace/tankarkee-memorial",
+                         "colorGroup":  "green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "hainan-museum",
+                         "slug":  "hainan-museum",
+                         "title":  "Hainan Museum",
+                         "path":  "grassspace/hainan-museum",
+                         "colorGroup":  "green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "casa-sering",
+                         "slug":  "casa-sering",
+                         "title":  "Casa Sering",
+                         "path":  "grassspace/casa-sering",
+                         "colorGroup":  "green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "nisiap",
+                         "slug":  "nisiap",
+                         "title":  "Nisiap",
+                         "path":  "grassspace/nisiap",
+                         "colorGroup":  "light-green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "tcdl",
+                         "slug":  "tcdl",
+                         "title":  "TCDL",
+                         "path":  "grassspace/tcdl",
+                         "colorGroup":  "light-green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "mokyee",
+                         "slug":  "mokyee",
+                         "title":  "Mokyee",
+                         "path":  "grassspace/mokyee",
+                         "colorGroup":  "light-green",
+                         "sections":  [
+
+                                      ]
+                     },
+                     {
+                         "rowId":  "doris-q",
+                         "slug":  "doris-q",
+                         "title":  "Doris Q",
+                         "path":  "grassspace/doris-q",
+                         "colorGroup":  "light-green",
+                         "sections":  [
+
+                                      ]
+                     }
+                 ]
+}

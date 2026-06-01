@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #ffffff;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #111111;
+  font-family: "Work Sans", Arial, Helvetica, sans-serif;
+  line-height: 1.2;
+}
+
+.project-page {
+  min-height: calc(100vh - 135px);
+}
+
+.project-page__status {
+  max-width: 720px;
+  padding: 48px 24px;
+  margin: 0 auto;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.project-page__section {
+  position: relative;
+}
+
+.project-page__section-meta {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 2;
+  padding: 6px 8px;
+  background: rgba(255, 255, 255, 0.82);
+  color: #111111;
+  font-size: 11px;
+  line-height: 1;
+  pointer-events: none;
+}
+
+@media (max-width: 720px) {
+  .project-page {
+    min-height: calc(100vh - 112px);
+  }
+}
